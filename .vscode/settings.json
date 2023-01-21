@@ -1,0 +1,7 @@
+{
+    "editor.fontSize": 22,
+    "terminal.integrated.fontSize": 18,
+    "editor.wordWrap": "off",
+    "editor.guides.indentation": false,
+    "terminal.integrated.fontFamily": "monospace"
+}
